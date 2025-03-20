@@ -1,4 +1,4 @@
-### Project Description  
+### Pyspark Project Description  
 
 Currently, there is a business text data set, with a standardized data splitting and evaluation metric. Our task is to develop a “good-performing” decision support system that classifies text. To achieve this, we will need to:  
 
