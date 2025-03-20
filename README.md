@@ -1,4 +1,4 @@
-# Project Description  
+### Project Description  
 
 Currently, there is a business text data set, with a standardized data splitting and evaluation metric. Our task is to develop a “good-performing” decision support system that classifies text. To achieve this, we will need to:  
 
@@ -14,7 +14,7 @@ Currently, there is a business text data set, with a standardized data splitting
 
 
 
-# About Dataset  
+### About Dataset  
 
 One of the most important problems in e-commerce is the correct calculation of the points given to after-sales products. The solution to this problem is to provide greater customer satisfaction for the e-commerce site, product prominence for sellers, and a seamless shopping experience for buyers. Another problem is the correct ordering of the comments given to the products. The prominence of misleading comments will cause both financial losses and customer losses. In solving these 2 basic problems, e-commerce site and sellers will increase their sales, while customers will complete their purchasing journey without any problems.  
 
